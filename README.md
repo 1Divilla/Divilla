@@ -14,7 +14,3 @@ I am a calm, resilient, and responsible person with experience in software devel
 - I will soon be publishing an editor for overwriting data in JSON format.
 - I am focusing on improving my overall development skills, including working on various software projects.
 - I always strive to learn new technologies, optimize my development processes, and apply best practices in all my projects.
-
-## 📫 How to reach me?
-
-- Correo: divilla2005@gmail.com
